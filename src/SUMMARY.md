@@ -11,3 +11,7 @@
     - [The cargo package manager](./lfel1002/cargo-package-manager.md)
     - [Security tools](./lfel1002/security-tools.md)
     - [More complex syntax](./lfel1002/complex-syntax.md)
+
+# edX
+
+- [Exploring GraphQL: A query language for APIs](./lfs141x/syllabus.md)
