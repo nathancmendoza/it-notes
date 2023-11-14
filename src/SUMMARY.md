@@ -15,3 +15,6 @@
 # edX
 
 - [Exploring GraphQL: A query language for APIs](./lfs141x/syllabus.md)
+    - [GraphQL fundamentals](./lfs141x/graphql-fundamentals.md)
+    - [GraphQL clients](./lfs141x/clients.md)
+    - [GraphQL servers](./lfs141x/servers.md)
