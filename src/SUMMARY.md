@@ -18,3 +18,4 @@
     - [GraphQL fundamentals](./lfs141x/graphql-fundamentals.md)
     - [GraphQL clients](./lfs141x/clients.md)
     - [GraphQL servers](./lfs141x/servers.md)
+    - [Advance GraphQL concepts](./lfs141x/graphql-concepts.md)
