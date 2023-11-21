@@ -20,3 +20,5 @@
     - [GraphQL servers](./lfs141x/servers.md)
     - [Advance GraphQL concepts](./lfs141x/graphql-concepts.md)
     - [GraphQL tools and ecosystem](./lfs141x/tooling-and-ecosystem.md)
+    - [GraphQL security](./lfs141x/security.md)
+    - [GraphQL FAQs](./lfs141x/common-questions.md)
