@@ -24,7 +24,7 @@
     - [GraphQL FAQs](./lfs141x/common-questions.md)
 - [Introduction to Kubernetes](./lfs158x/syllabus.md)
     - [From monoliths to microservices](./lfs158x/from-monoliths-to-microservices.md)
-    - [Container orchestration]()
+    - [Container orchestration](./lfs158x/container-orchestration.md)
     - [Kubernetes]()
     - [Kubernetes architecture]()
     - [Installing kubernetes]()
