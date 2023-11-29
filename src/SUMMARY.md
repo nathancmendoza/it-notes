@@ -23,7 +23,7 @@
     - [GraphQL security](./lfs141x/security.md)
     - [GraphQL FAQs](./lfs141x/common-questions.md)
 - [Introduction to Kubernetes](./lfs158x/syllabus.md)
-    - [From monoliths to microservices]()
+    - [From monoliths to microservices](./lfs158x/from-monoliths-to-microservices.md)
     - [Container orchestration]()
     - [Kubernetes]()
     - [Kubernetes architecture]()
