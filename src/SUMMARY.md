@@ -29,7 +29,7 @@
     - [Kubernetes architecture](./lfs158x/kubernetes-architecture.md)
     - [Installing kubernetes](./lfs158x/installing-kubernetes.md)
     - [Minikube -- installing local kubernetes clusters](./lfs158x/minikube-installation.md)
-    - [Accessing minikube]()
+    - [Accessing minikube](./lfs158x/accessing-clusters.md)
     - [Kubernetes building blocks]()
     - [Authentication, authorization, admission control]()
     - [Services]()
