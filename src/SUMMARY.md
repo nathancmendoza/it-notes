@@ -31,7 +31,7 @@
     - [Minikube -- installing local kubernetes clusters](./lfs158x/minikube-installation.md)
     - [Accessing minikube](./lfs158x/accessing-clusters.md)
     - [Kubernetes building blocks](./lfs158x/kubernetes-building-blocks.md)
-    - [Authentication, authorization, admission control]()
+    - [Authentication, authorization, admission control](./lfs158x/aaa-control.md)
     - [Services]()
     - [Deploying a stand-alone application]()
     - [Kubernetes volume management]()
