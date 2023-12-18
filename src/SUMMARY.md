@@ -32,7 +32,7 @@
     - [Accessing minikube](./lfs158x/accessing-clusters.md)
     - [Kubernetes building blocks](./lfs158x/kubernetes-building-blocks.md)
     - [Authentication, authorization, admission control](./lfs158x/aaa-control.md)
-    - [Services]()
+    - [Services](./lfs158x/services.md)
     - [Deploying a stand-alone application]()
     - [Kubernetes volume management]()
     - [ConfigMaps and secrets]()
