@@ -33,7 +33,7 @@
     - [Kubernetes building blocks](./lfs158x/kubernetes-building-blocks.md)
     - [Authentication, authorization, admission control](./lfs158x/aaa-control.md)
     - [Services](./lfs158x/services.md)
-    - [Deploying a stand-alone application]()
+    - [Deploying a stand-alone application](./lfs158x/standalone-app.md)
     - [Kubernetes volume management]()
     - [ConfigMaps and secrets]()
     - [Ingress]()
