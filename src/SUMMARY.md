@@ -34,7 +34,7 @@
     - [Authentication, authorization, admission control](./lfs158x/aaa-control.md)
     - [Services](./lfs158x/services.md)
     - [Deploying a stand-alone application](./lfs158x/standalone-app.md)
-    - [Kubernetes volume management]()
+    - [Kubernetes volume management](./lfs158x/volume-management.md)
     - [ConfigMaps and secrets]()
     - [Ingress]()
     - [Advanced kubernetes topics]()
