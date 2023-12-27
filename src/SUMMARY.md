@@ -35,7 +35,7 @@
     - [Services](./lfs158x/services.md)
     - [Deploying a stand-alone application](./lfs158x/standalone-app.md)
     - [Kubernetes volume management](./lfs158x/volume-management.md)
-    - [ConfigMaps and secrets]()
+    - [ConfigMaps and secrets](./lfs158x/configmaps-and-secrets.md)
     - [Ingress]()
     - [Advanced kubernetes topics]()
     - [Kubernetes community]()
