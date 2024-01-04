@@ -37,5 +37,5 @@
     - [Kubernetes volume management](./lfs158x/volume-management.md)
     - [ConfigMaps and secrets](./lfs158x/configmaps-and-secrets.md)
     - [Ingress](./lfs158x/ingress.md)
-    - [Advanced kubernetes topics]()
-    - [Kubernetes community]()
+    - [Advanced kubernetes topics](./lfs158x/advanced-topics.md)
+    - [Kubernetes community](./lfs158x/community.md)
