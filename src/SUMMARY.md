@@ -11,6 +11,7 @@
     - [The cargo package manager](./lfel1002/cargo-package-manager.md)
     - [Security tools](./lfel1002/security-tools.md)
     - [More complex syntax](./lfel1002/complex-syntax.md)
+- [Introduction to protocol buffers](./lfs145/syllabus.md)
 
 # edX
 
