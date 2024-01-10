@@ -12,6 +12,7 @@
     - [Security tools](./lfel1002/security-tools.md)
     - [More complex syntax](./lfel1002/complex-syntax.md)
 - [Introduction to protocol buffers](./lfs145/syllabus.md)
+    - [Why Protocol Buffers?](./lfs145/why-protocol-buffers.md)
 
 # edX
 
