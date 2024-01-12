@@ -13,6 +13,9 @@
     - [More complex syntax](./lfel1002/complex-syntax.md)
 - [Introduction to protocol buffers](./lfs145/syllabus.md)
     - [Why Protocol Buffers?](./lfs145/why-protocol-buffers.md)
+    - [Protocol Buffers Basics (Part 1)](./lfs145/protobuf-basics-part-1.md)
+    - [Protocol Buffers Basics (Part 2)](./lfs145/protobuf-basics-part-2.md)
+    - [Protocol Buffers Basics (Part 3)](./lfs145/protobuf-basics-part-3.md)
 
 # edX
 
