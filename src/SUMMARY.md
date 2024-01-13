@@ -16,6 +16,9 @@
     - [Protocol Buffers Basics (Part 1)](./lfs145/protobuf-basics-part-1.md)
     - [Protocol Buffers Basics (Part 2)](./lfs145/protobuf-basics-part-2.md)
     - [Protocol Buffers Basics (Part 3)](./lfs145/protobuf-basics-part-3.md)
+    - [The `protoc` Compiler](./lfs145/protobuf-compiler.md)
+    - [Python + Protocol Buffers](./lfs145/protobuf-with-python.md)
+    - [Language Interoperability](./lfs145/language-interoperability.md)
 
 # edX
 
