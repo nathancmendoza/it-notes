@@ -19,6 +19,8 @@
     - [The `protoc` Compiler](./lfs145/protobuf-compiler.md)
     - [Python + Protocol Buffers](./lfs145/protobuf-with-python.md)
     - [Language Interoperability](./lfs145/language-interoperability.md)
+    - [Data Evolution](./lfs145/data-evolution.md)
+    - [Advanced Protocol Buffers](./lfs145/protobuf-advanced.md)
 
 # edX
 
